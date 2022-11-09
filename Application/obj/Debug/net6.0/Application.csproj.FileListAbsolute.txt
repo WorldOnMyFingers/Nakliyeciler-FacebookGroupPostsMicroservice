@@ -1,0 +1,17 @@
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Application.deps.json
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Application.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Application.pdb
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Domain.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Infrastructure.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Domain.pdb
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/bin/Debug/net6.0/Infrastructure.pdb
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/Application.pdb
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/obj/Debug/net6.0/ref/Application.dll

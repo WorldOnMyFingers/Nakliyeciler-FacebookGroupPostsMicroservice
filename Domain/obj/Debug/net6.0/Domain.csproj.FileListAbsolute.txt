@@ -1,0 +1,12 @@
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/bin/Debug/net6.0/Domain.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/obj/Debug/net6.0/ref/Domain.dll
