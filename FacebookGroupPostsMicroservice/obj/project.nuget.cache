@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MwU3rKqwjoqk54DFjW0Aqw0v1yhD3/Fh1jreb4O0P2Ek5HoJNyY28V+kQMmHBgd/M/z/Gs0/WplhS51qRJANGQ==",
+  "dgSpecHash": "jKr9EWq5F3iJYs/C+0qRW+3iQ1oo5ASzoZUAJLgoutTevGo5qZIthbsE7tQcxvHQdlKTumr3ikPCbsQsInKWYw==",
   "success": true,
-  "projectFilePath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice.csproj",
+  "projectFilePath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice.csproj",
   "expectedPackageFiles": [
     "/Users/emrebabayigit/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
     "/Users/emrebabayigit/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

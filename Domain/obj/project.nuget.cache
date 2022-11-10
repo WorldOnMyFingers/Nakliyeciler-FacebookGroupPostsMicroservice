@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U9/19BKNOONsaSENo+aqjrd1ZvilkiE1/grdsyzLoJ1Rmxfq7HjArzvs5ntq/TekTkCK9d5eUrjSy7NL8OnZDw==",
+  "dgSpecHash": "Sul5KVvDUZtyP+RWcmvpczQNNCbtIw3WPD45qBEqhuuuvKO2oW1fkKA+0bRclcWv9LM7pvr7UkhMXmQTMzTB8g==",
   "success": true,
-  "projectFilePath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/Domain.csproj",
+  "projectFilePath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Domain/Domain.csproj",
   "expectedPackageFiles": [
     "/Users/emrebabayigit/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/emrebabayigit/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

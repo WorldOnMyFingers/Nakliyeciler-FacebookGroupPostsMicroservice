@@ -17,6 +17,7 @@ namespace FacebookGroupPostsMicroservice.Controllers
     [Route("api/[controller]")]
     public class FbGroupPostController : BaseController
     {
+
  
         public FbGroupPostController()
         {

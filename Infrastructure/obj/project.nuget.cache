@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epn26mVdIq8AofZB9UQ9pO7CqhmYKIBeMZbTLPhB69Wyh0KGdLT7Ek1bLGOHicyfgXb+rdRo8uroWEIRViAbhA==",
+  "dgSpecHash": "qdY5cz6hVYwUOCHWQrTBv6245/JUmYbUewBAfjV/PJ96/1c5xTUE/JlEx26WjhQdMamR8BFR85hHw7XrHz15yQ==",
   "success": true,
-  "projectFilePath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/emrebabayigit/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
     "/Users/emrebabayigit/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",

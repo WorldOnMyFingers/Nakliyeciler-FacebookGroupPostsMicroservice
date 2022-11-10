@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EUnlFoPAzuxS5AxiTAOFHPQQKBaU/R7rnGASKGjCnAwFgHuP51PsEoA5i5n5qgz7Q6T/rI+pxc2XhEuVspDCfg==",
+  "dgSpecHash": "OO4jzQq7mDuL18zUCXRZlk4QUwaWQKZ43JpAn50yjG6aDpZIqJ+tC9djLaXf43zdNkOQrfJHTSY4A3Te5RrpRQ==",
   "success": true,
-  "projectFilePath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/Application.csproj",
+  "projectFilePath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/emrebabayigit/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
     "/Users/emrebabayigit/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",

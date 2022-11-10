@@ -847,11 +847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/emrebabayigit/.nuget/packages/",
-      "outputPath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Infrastructure/obj/",
+      "outputPath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -869,8 +869,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/Domain.csproj": {
-              "projectPath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Domain/Domain.csproj"
+            "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Domain/Domain.csproj": {
+              "projectPath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Domain/Domain.csproj"
             }
           }
         }

@@ -1335,11 +1335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice.csproj",
+      "projectUniqueName": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice.csproj",
       "projectName": "FacebookGroupPostsMicroservice",
-      "projectPath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice.csproj",
+      "projectPath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice.csproj",
       "packagesPath": "/Users/emrebabayigit/.nuget/packages/",
-      "outputPath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/obj/",
+      "outputPath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/FacebookGroupPostsMicroservice/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -1357,8 +1357,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/Application.csproj": {
-              "projectPath": "/Users/emrebabayigit/Projects/FacebookGroupPostsMicroservice/Application/Application.csproj"
+            "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Application/Application.csproj": {
+              "projectPath": "/Users/emrebabayigit/Projects/Nakliyeciler-FacebookGroupPostsMicroservice/Application/Application.csproj"
             }
           }
         }
