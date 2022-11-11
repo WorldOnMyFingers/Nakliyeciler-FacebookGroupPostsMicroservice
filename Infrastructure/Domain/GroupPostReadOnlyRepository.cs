@@ -20,7 +20,8 @@ namespace Infrastructure.Domain
         {
             try
             {
-                return _context.GroupPosts.AsQueryable().OrderBy(post => post.CreatedAt).Take(options.Limit).ToList();
+
+                return _context.GroupPosts.AsQueryable().OrderByDescending(x => x.UpdatedDate).Take(options.Limit).ToList();
             }
             catch (Exception ex)
             {

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Application.Base;
 using Application.GroupPosts.Commands.CreateGroupPost;
 using Application.GroupPosts.Queries.GetGroupPosts;
 using Domain.QueryConfiguration;
@@ -26,8 +27,8 @@ namespace FacebookGroupPostsMicroservice.Controllers
 
 
         // GET: api/values
-        [HttpGet]
-        public async Task<IActionResult> Get([FromQuery] QueryOptions options)
+        [HttpGet("GetAll")]
+        public async Task<ActionResult<IEnumerable<GroupPostDto>>> Get([FromQuery] QueryOptions options)
         {
             var results = await Mediator.Send(new GetGroupPostsQuery
             {
@@ -37,18 +38,10 @@ namespace FacebookGroupPostsMicroservice.Controllers
             return Ok(results);
         }
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public async Task<IResult> Get(string id)
-        {
-            //var post = await _fbGroupService.Get(id);
-            //return post is null ? Results.NotFound() : Results.Ok(post);
-            throw new NotImplementedException();
-        }
 
         // POST api/values
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] IEnumerable<CreateGroupPostDto> createGroupPostDtos)
+        public async Task<ActionResult<bool>> Post([FromBody] IEnumerable<CreateGroupPostDto> createGroupPostDtos)
         {
             var result = await Mediator.Send(new CreateGroupPostCommand
             {
@@ -58,17 +51,17 @@ namespace FacebookGroupPostsMicroservice.Controllers
             return Ok(result);
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
+        //// PUT api/values/5
+        //[HttpPut("{id}")]
+        //public void Put(int id, [FromBody] string value)
+        //{
+        //}
 
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+        //// DELETE api/values/5
+        //[HttpDelete("{id}")]
+        //public void Delete(int id)
+        //{
+        //}
     }
 }
 

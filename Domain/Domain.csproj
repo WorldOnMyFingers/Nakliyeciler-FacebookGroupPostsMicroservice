@@ -12,6 +12,7 @@
     <None Remove="BaseRepositories\" />
     <None Remove="QueryConfiguration\" />
     <None Remove="Repositories\" />
+    <None Remove="Groups\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MongoDB.Driver" Version="2.18.0" />
@@ -20,5 +21,6 @@
     <Folder Include="Base\" />
     <Folder Include="QueryConfiguration\" />
     <Folder Include="Repositories\" />
+    <Folder Include="Groups\" />
   </ItemGroup>
 </Project>

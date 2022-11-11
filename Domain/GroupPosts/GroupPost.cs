@@ -7,6 +7,7 @@ namespace Domain.GroupPosts
     {
         public string Message { get; set; }
         public string UpdatedDate { get; set; }
+        public IEnumerable<string> Tags { get; set; }
     }
 }
 
