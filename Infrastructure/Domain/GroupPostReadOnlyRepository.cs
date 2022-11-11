@@ -21,7 +21,16 @@ namespace Infrastructure.Domain
             try
             {
 
-                return _context.GroupPosts.AsQueryable().OrderByDescending(x => x.UpdatedDate).Take(options.Limit).ToList();
+                var posts = _context.GroupPosts.AsQueryable();//.OrderByDescending(x => x.UpdatedDate).Take(options.Limit).ToList();
+                var groups = _context.Groups.AsQueryable();
+                var q = from post in posts
+                        join fbGroup in groups
+                        on post.Id. equals fbGroup.Id
+                        select new
+                        {
+                            post,
+                            Group = fbGroup
+                        };
             }
             catch (Exception ex)
             {

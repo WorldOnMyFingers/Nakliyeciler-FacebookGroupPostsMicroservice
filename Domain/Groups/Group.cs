@@ -1,11 +1,12 @@
 ﻿using System;
+using Domain.Base;
+
 namespace Domain.Groups
 {
-    public class Group
+    public class Group : BaseEntity
     {
-        public Group()
-        {
-        }
+        public string Name { get; set; }
+        public string Url { get; set; }
     }
 }
 
