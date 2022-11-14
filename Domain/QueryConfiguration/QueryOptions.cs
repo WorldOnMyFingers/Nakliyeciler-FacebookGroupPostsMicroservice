@@ -9,6 +9,8 @@ namespace Domain.QueryConfiguration
         public string SortBy { get; set; }
 
         public string Sort { get; set; }
+        public List<string>? Tags { get; set; }
+        public DateTime Since  { get; set; }
 
         public int Limit { get; set; } = LimitSize;
     }

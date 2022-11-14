@@ -10,10 +10,11 @@ namespace Application.Base
     {
         public string Id { get; set; }
 
-        [Ignore]
-        public string FbGroupId => Id.Split('_')[0];
-
         public string Message { get; set; }
+
+        public string GroupId { get; set; }
+
+        public string GroupName { get; set; }
 
         public string UpdatedDate  { get; set; }
 

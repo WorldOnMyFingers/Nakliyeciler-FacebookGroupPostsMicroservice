@@ -11,7 +11,8 @@ namespace Application.GroupPosts.Commands.CreateGroupPost
     {
         public string Id { get; set; }
         public string Message { get; set; }
-        public string UpdatedDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
+        public string GroupId { get; set; }
         public IEnumerable<string> Tags { get; set; }
 
         public CreateGroupPostDto()
